@@ -10,7 +10,7 @@ I'm a Game Developer from VietNam
 
 - ❤️ I love Unity C#
 
-<code><img height="50" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"></code>
+<code><img height="50" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"></code>
 <code><img height="50" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 
 
