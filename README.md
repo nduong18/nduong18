@@ -5,7 +5,7 @@ I'm a Game Developer from VietNam
 
 **About me**
 
-- 💼 Gamer Developer
+- 💼 Game Developer
 
 - ❤️ I love Unity C#
 
