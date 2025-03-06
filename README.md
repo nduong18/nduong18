@@ -1,7 +1,5 @@
 "Hello, I'm Duong"
-
 <br />
-
 I'm a Game Developer from VietNam
 
 **About me**
