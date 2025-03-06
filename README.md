@@ -13,6 +13,7 @@ I'm a Game Developer from VietNam
 <code><img height="50" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"></code>
 <code><img height="50" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 <code><img height="50" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></code>
+<code><img height="50" alt="javascript" src="https://images.seeklogo.com/logo-png/27/1/java-logo-png_seeklogo-273556.png"></code>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
