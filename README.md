@@ -31,8 +31,5 @@ I'm a Game Developer from VietNam
 <br />
 
 <a href="https://www.facebook.com/nduong18/">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="right" alt="Ngoc Duong | Facebook" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" />
 </a>
