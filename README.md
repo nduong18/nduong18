@@ -2,6 +2,7 @@
 
 <br />
 I'm learning IT from VietNam
+<br/>
 I'm a Game Developer at TheOne Game Studio
 
 <a href="https://www.facebook.com/nduong18/">
