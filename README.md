@@ -4,7 +4,7 @@
 Mình là một **Sinh viên Công nghệ Thông tin** với niềm đam mê lớn trong việc phát triển trò chơi và xây dựng các ứng dụng web sáng tạo. Hiện tại, mình đang tập trung vào việc tối ưu hóa trải nghiệm người dùng thông qua các sản phẩm Playable Ads và các dự án game cá nhân.
 
 - 🎓 Hiện đang theo học tại **PTIT** (Học viện Công nghệ Bưu chính Viễn thông).
-- 🎮 Chuyên môn chính: **Game Development** (Cocos Creator) & **Web Development**.
+- 🎮 Chuyên môn chính: **Game Development** (Cocos Creator, Unity) & **Web Development**.
 - 🛠️ Luôn tìm kiếm cơ hội để học hỏi các công nghệ mới và đóng góp vào các dự án mã nguồn mở.
 
 ---
