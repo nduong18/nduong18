@@ -9,9 +9,7 @@
 
 ---
 
-### 📂 Dự án nổi bật
-***Comming soon***
----
+[Play AI Snake](https://nduong18.github.io/nduong18/snake.html)
 
 ### 📈 GitHub Stats
 
