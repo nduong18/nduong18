@@ -15,12 +15,6 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nduong18&show_icons=true&theme=tokyonight" alt="nduong18's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nduong18&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 ![Status Window](https://git-profile-awaken.vercel.app/api?username=nduong18&theme=solo_leveling&mode=mortal&widget=status)
 
 ### 📫 Liên hệ với mình
