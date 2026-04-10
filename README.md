@@ -15,7 +15,7 @@
 
 ### 📈 GitHub Stats
 
-![Status Window](https://git-profile-awaken.vercel.app/api?username=nduong18&theme=solo_leveling&mode=mortal&widget=status) <br>
+![Status Window](https://git-profile-awaken.vercel.app/api?username=nduong18&theme=hollow_knight&mode=mortal&widget=status) <br>
 ![STR Rune](https://git-profile-awaken.vercel.app/api?username=nduong18&theme=hollow_knight&mode=mortal&widget=stat&target=STR)
 
 ### 📫 Liên hệ với mình
