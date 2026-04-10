@@ -16,6 +16,7 @@
 ### 📈 GitHub Stats
 
 ![Status Window](https://git-profile-awaken.vercel.app/api?username=nduong18&theme=hollow_knight&mode=mortal&widget=status) <br>
+![Passive Skills](https://git-profile-awaken.vercel.app/api?username=nduong18&theme=hollow_knight&mode=mortal&widget=skill) <br>
 ![STR Rune](https://git-profile-awaken.vercel.app/api?username=nduong18&theme=hollow_knight&mode=mortal&widget=stat&target=STR)
 ![VIT Rune](https://git-profile-awaken.vercel.app/api?username=nduong18&theme=hollow_knight&mode=mortal&widget=stat&target=VIT)
 
