@@ -9,7 +9,7 @@
 
 ---
 
-[Play AI Snake](https://nduong18.github.io/nduong18/snake.html)
+[Play AI Snake](https://nduong18.github.io/readme-game/)
 
 ### 📈 GitHub Stats
 
