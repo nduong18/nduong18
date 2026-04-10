@@ -9,7 +9,7 @@
 
 ---
 
-[Play AI Snake](https://nduong18.github.io/readme-game/)
+![Play AI Snake](https://readme-game.vercel.app/) <br>
 
 ### 📈 GitHub Stats
 
