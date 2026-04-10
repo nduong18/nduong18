@@ -21,6 +21,7 @@
 </p>
 
 ---
+![Status Window](https://git-profile-awaken.vercel.app/api?username=nduong18&theme=solo_leveling&mode=mortal&widget=status)
 
 ### 📫 Liên hệ với mình
 - **Email:** duonghocbai18@gmail.com
