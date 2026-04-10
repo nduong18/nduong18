@@ -17,6 +17,7 @@
 
 ![Status Window](https://git-profile-awaken.vercel.app/api?username=nduong18&theme=hollow_knight&mode=mortal&widget=status) <br>
 ![STR Rune](https://git-profile-awaken.vercel.app/api?username=nduong18&theme=hollow_knight&mode=mortal&widget=stat&target=STR)
+![VIT Rune](https://git-profile-awaken.vercel.app/api?username=nduong18&theme=hollow_knight&mode=mortal&widget=stat&target=VIT)
 
 ### 📫 Liên hệ với mình
 - **Email:** duonghocbai18@gmail.com
