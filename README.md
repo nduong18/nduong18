@@ -9,8 +9,6 @@
 
 ---
 
-![Play AI Snake](https://readme-game.vercel.app/) <br>
-
 ### 📈 GitHub Stats
 
 ![Status Window](https://git-profile-awaken.vercel.app/api?username=nduong18&theme=hollow_knight&mode=mortal&widget=status) <br>
