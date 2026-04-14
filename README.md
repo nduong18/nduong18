@@ -16,7 +16,7 @@
 <a href="https://github.com/nduong18" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a>
 </p>
 **<h3 align="left">Tools & Support:</h3>** <p align="left">
-[Playable Ads Size Build Checker](https://nduong18.github.io/Playable-Ads-Size-Build-Checker/)
+https://nduong18.github.io/Playable-Ads-Size-Build-Checker/
 
  **<h3 align="left">🚀 Passionate Playable Ads Developer & Game Engineer. I specialize in creating high-performance interactive ads and robust backend systems, focusing on optimized user experiences and seamless cross-platform deployment.</h3>**
 
