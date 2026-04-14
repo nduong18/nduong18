@@ -30,7 +30,8 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black" height="28" alt="JavaScript" style="margin-right: 4px"> 
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" height="28" alt="SQL Server" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="28" alt="Git" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" height="28" alt="Git" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white" height="28" alt="Git" style="margin-right: 4px">
 </div>
 
  **<h3 align="left">GitHub Stats</h3>**
