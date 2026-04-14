@@ -50,6 +50,6 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nduong18&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nduong18?cardType=level&theme=github&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nduong18&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </div>
