@@ -49,6 +49,4 @@
 </a>
 </p>
 
-<br>
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nduong18?cardType=level&theme=github&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-<br>
