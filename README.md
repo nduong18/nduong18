@@ -35,8 +35,5 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" height="28" alt="SQL Server" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px">
 </div>
-
- **<h3 align="left">GitHub Stats</h3>**
-
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nduong18&theme=react&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23" alt="GitHub stats Card" />
