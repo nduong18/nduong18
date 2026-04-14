@@ -28,10 +28,12 @@
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
   <img src="https://img.shields.io/badge/Cocos_Creator-5C5C5C?logo=cocos&logoColor=white" height="28" alt="Cocos Creator" style="margin-right: 4px"> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black" height="28" alt="JavaScript" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" height="28" alt="SQL Server" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" height="28" alt="Git" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white" height="28" alt="Git" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black" height="28" alt="JavaScript" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="28" alt="Python" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" height="28" alt="C++" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white" height="28" alt="C" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" height="28" alt="SQL Server" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px">
 </div>
 
  **<h3 align="left">GitHub Stats</h3>**
