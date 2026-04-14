@@ -29,12 +29,7 @@
   <img src="https://img.shields.io/badge/Cocos_Creator-5C5C5C?logo=cocos&logoColor=white" height="28" alt="Cocos Creator" style="margin-right: 4px"> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black" height="28" alt="JavaScript" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="28" alt="Python" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="28" alt="FastAPI" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" height="28" alt="Java" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" height="28" alt="Spring Boot" style="margin-right: 4px"> 
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" height="28" alt="SQL Server" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="28" alt="OpenCV" style="margin-right: 4px"> 
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="28" alt="Git" style="margin-right: 4px">
 </div>
 
