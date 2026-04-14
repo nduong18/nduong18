@@ -49,4 +49,4 @@
 </a>
 </p>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nduong18?cardType=level&theme=github&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github&fontFamily=&preferLogin=false">    <img  alt="nduong18's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/nduong18?cardType=level&theme=github&fontFamily=&preferLogin=false" />  </a>
