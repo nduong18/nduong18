@@ -9,7 +9,7 @@
 
 ---
 ### Tools
-![Playable Ads Size Build Checker](https://nduong18.github.io/Playable-Ads-Size-Build-Checker/)
+[Playable Ads Size Build Checker](https://nduong18.github.io/Playable-Ads-Size-Build-Checker/)
 
 ### 📈 GitHub Stats
 
